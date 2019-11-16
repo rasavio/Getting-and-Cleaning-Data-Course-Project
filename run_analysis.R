@@ -76,4 +76,4 @@ colnames(extracted_data) <- gsub("gravity", "Gravity", colnames(extracted_data))
 tidy_data <- aggregate(. ~ Subject + ActivityName, extracted_data, mean)
   
 # Output data ----
-write.csv(tidy_data, "tidy_data.csv", row.names = FALSE)
+write.table(tidy_data, "tidy_data.txt", row.names = FALSE)

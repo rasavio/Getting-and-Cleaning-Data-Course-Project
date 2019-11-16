@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 Within this repository you will find the following files:
 * The R Script *run_analysis.R* which is used to conduct the data wrangling.
 * A code book titled *CodeBook.md* detailing the code within the above script.
-* The resulting tidy data set which is output as *tidy_data.csv*.
+* The resulting tidy data set which is output as *tidy_data.txt*.
 
 Per the project outline, the R Script is required to complete the following tasks:
 

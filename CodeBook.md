@@ -73,4 +73,4 @@ The field names contain acronyms, such as `Acc` or `Gyro`, are updated to use th
 A second, independent tidy data set with the average of each variable for each activity and each subject is create from the `extracted_data` table as `tidy_data`.
 
 ## Output Tidy Data
-The final data set, `tidy_data`, is exported as csv.
+The final data set, `tidy_data`, is exported as txt file.
